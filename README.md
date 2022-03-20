@@ -1,11 +1,10 @@
 # ASCII Emoji Buckts
-Emoji Buckets is a shell extension for the [GNOME](https://www.gnome.org/) desktop.
+Emoji Buckets is a shell extension for the [Gnome](https://www.gnome.org/) desktop.
 
 ## About
 This is a fork of the GNOME shell extensions [emoji-buckets](https://github.com/harlemsquirrel/gnome-emoji-buckets) with ASCII emojis (¯\\\_(ツ)_/¯) instead of normal ones :shrug:
 
 ## Installation
-These are UTF-8 symbols so it should work on almost every system without any extra fonts, yay!
 
 #### Option 1
 Install it from the official gnome extensions website, [here](https://extensions.gnome.org/extension/3408/ascii-emoji-buckets/).
@@ -19,7 +18,7 @@ You can install this extension by downloading a released version and extracting 
 ~/.local/share/gnome-shell/extensions/ascii_emoji_buckets@HarshKhandeparkar
 ```
 
-Log out or restart the GNOME shell to make it available in GNOME Tweak. Note that on Wayland restarting the GNOME shell is not working as of 3.22.2.
+Log out or restart the Gnome shell and enable it in Gnome Extensions or Gnome Tweaks app.
 
 ## Troubleshooting
 
